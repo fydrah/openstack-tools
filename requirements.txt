@@ -1,0 +1,4 @@
+pyyaml
+simplejson
+terminaltables
+openstacksdk
